@@ -1,0 +1,9 @@
+# Archivos a no invluir en el reposoritorio
+
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+
+# Directorios a no incluir en el Repositorio
+
+/Debug
